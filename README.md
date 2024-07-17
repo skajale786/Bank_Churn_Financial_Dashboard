@@ -37,3 +37,7 @@ Setting KPIs
 3. Avg Estimated Salary: Focusing on the estimated salary might help the bank to push the promotional credit card offerings and other products to high salary individuals.
 4. Avg Number of Products used: Focusing on the avg number of products might help the bank to reduce their efforts in the geographies where the number is more than the avg number.
 5. Exited Customers: It is the most important KPI to understand how many people exited the bank's services and their age group, gender or credit score.
+
+
+Contact: https://www.linkedin.com/in/sahil-kajale-b95b36182/
+kajalesahil7@gmail.com
